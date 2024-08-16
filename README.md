@@ -1,3 +1,7 @@
+## screenshot
+![screenshot](https://github.com/user-attachments/assets/c4493ca8-f088-4ab4-8131-29e5a60eacfe)
+
+
 # Description 
 I was a bit bored, so I decided to write a very simple website that uses APIs to get the user's IP and retrieve some information like their approximate location, such as the city and country name, etc. You can use this information to apply some restrictions or additional features based on the IP of that country or city.
 
